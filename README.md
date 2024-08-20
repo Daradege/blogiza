@@ -12,7 +12,7 @@ Blogiza is a simple and elegant blog platform powered by GitHub Pages.
 ## Getting Started
 
 1. Fork this repository
-2. Edit `_config.yml` with your site settings
+2. Edit `.github/workflows` with your site settings
 3. Create new posts in the `posts` directory (1.md, 2.md, etc.)
 4. Commit and push your changes
 
